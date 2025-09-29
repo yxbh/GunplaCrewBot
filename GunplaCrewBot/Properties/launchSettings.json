@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GunplaCrewBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
